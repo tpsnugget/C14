@@ -9,7 +9,7 @@
          return $this->name . " is " . $this->color;
       }
 
-      abstract public function makeSound();
+      // abstract public function makeSound();
 
    }
 
